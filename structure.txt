@@ -1,0 +1,16 @@
+exam_management/
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── php/
+│   ├── db.php
+│   ├── login.php
+│   ├── logout.php
+│   ├── add_student.php
+│   ├── update_student.php
+│   ├── delete_student.php
+│   ├── list_students.php
+│   └── result.php
+├── index.php
+└── login.php
